@@ -1,0 +1,10 @@
+.titulo {
+    font-weight: bold; 
+    color: chocolate;
+}
+
+.imagem {
+    width: 30rem;
+    height: 30rem;
+    margin: 3rem;
+}
